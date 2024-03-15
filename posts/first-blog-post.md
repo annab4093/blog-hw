@@ -20,7 +20,12 @@ disable_html_sanitization: true
 ![description](w01s1/IMG_0065.jpeg)
 
 
-![Alt text](/IMG_0100.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0101.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0101.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0102.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0104.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0105.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0106.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)
+![description](w01s1/IMG_0100.jpeg)
+
+![description](w01s1 /IMG_0101.jpeg)
+
+[Alt text](<../static/w01s1 image scavenger hunt/IMG_0101.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0102.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0104.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0105.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0106.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)
 
 ![description](w)
 
+![description](/subfolder_name/file_name.png) syntax 
