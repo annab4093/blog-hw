@@ -25,12 +25,15 @@ disable_html_sanitization: true
 
 ![description](w01s1/IMG_0101.jpeg)
 
+
 ![description](w01s1/IMG_0101.jpeg>)
 
 
 ![description](w01s1/IMG_0102.jpeg>)
 
+
 ![description](w01s1/IMG_0104.jpeg>)
+
 
 ![description](w01s1/IMG_0105.jpeg>)
 
