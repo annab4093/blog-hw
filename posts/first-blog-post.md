@@ -17,17 +17,17 @@ _underline_
 **bold**
 2024-03-07
 disable_html_sanitization: true 
-![description](w01s1/IMG_0065.jpeg)
+![A basement-dwelling Black Box, bigger than you might think. it looks like black boxes are behind us.](w01s1/IMG_0065.jpeg)
 
 
-![description](w01s1/IMG_0100.jpeg)
+![A golden globe atop a tower of eights.pretty obvious](w01s1/IMG_0100.jpeg)
 
 
 ![The disembodied hands of a great ape, we thought it looks like a huge hand so](w01s1/IMG_0101.jpeg)
 
 
 
-![description](w01s1/IMG_0102.jpeg)
+![ curtain of roots, delivered by a winged visitor.](w01s1/IMG_0102.jpeg)
 
 
 ![description](w01s1/IMG_0104.jpeg)
