@@ -97,7 +97,7 @@ Scenes flashing up will match the tempo of the quick paced music and clock ticki
 
 5.storyboard that accounts for the sonic elements of your project.
 
-![description](/storyboard/sb2.png）
+![description](/storyboard/sb2.png)
 
 
 Homework Tasks - Week 3, Session 1
