@@ -23,7 +23,7 @@ disable_html_sanitization: true
 ![description](w01s1/IMG_0100.jpeg)
 
 
-![description](w01s1/IMG_0101.jpeg)
+![The disembodied hands of a great ape, we thought it looks like a huge hand so](w01s1/IMG_0101.jpeg)
 
 
 
@@ -33,12 +33,12 @@ disable_html_sanitization: true
 ![description](w01s1/IMG_0104.jpeg)
 
 
-![description](w01s1/IMG_0105.jpeg)
+![ wide net strung above, bulging under the weight of its flying paper cargo, we found this in the library.](w01s1/IMG_0105.jpeg)
 
 
 ![A book containing Digital Media wisdom, found amongst many.](w01s1/IMG_0106.jpeg)
 
-![description](w01s1/IMG_0111.jpeg)
+![An explosive cup of coffee. we found a coffee shop with matching name](w01s1/IMG_0111.jpeg)
 
 
 homework
