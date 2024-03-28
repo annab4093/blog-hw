@@ -17,7 +17,9 @@ _underline_
 **bold**
 2024-03-07
 disable_html_sanitization: true 
-![A basement-dwelling Black Box, bigger than you might think. it looks like black boxes are behind us.](w01s1/IMG_0065.jpeg)
+![](w01s1/IMG_0065.jpeg)
+
+A basement-dwelling Black Box, bigger than you might think. it looks like black boxes are behind us.
 
 ![A golden globe atop a tower of eights.pretty obvious](w01s1/IMG_0100.jpeg)
 
