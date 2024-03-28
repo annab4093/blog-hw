@@ -47,6 +47,9 @@ A book containing Digital Media wisdom, found amongst many. We found this in the
 An explosive cup of coffee. we found a coffee shop with matching brand name.
 
 
+
+
+
 homework
 omework Tasks - Week 2, Session 1
 1. produce a storyboard or storyboards for your Assignment 1 project.
@@ -106,7 +109,12 @@ transition to scenes with longer duration and slow paced music.
 
 5.storyboard that accounts for the sonic elements of your project.
 
+![description](/storyboard/sb3.png)
 ![description](/storyboard/sb2.png)
+
+
+
+
 
 
 
@@ -125,9 +133,6 @@ Then I find the music and sound effects to work on the pacing and duration of bo
 
 
 Overview of use of
-
-
-
 
 concept:
 the main theme I want to present is who am I. So I decided to present my various interests in life, aspiration to become a great artist, and my feelings when coming into the course.
