@@ -146,10 +146,8 @@ when I transition between music, I lower the volume of both music in the connect
 
 4. Place this introduction into the description of your draft on YouTube or Vimeo. Double-check that the link is ready for sharing in class during the next session.
 
-
+W3S2 FINAL
+https://youtu.be/hAAMKLujs7A
 
 [Alt text](<../static/w01s1 image scavenger hunt/IMG_0101.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0102.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0104.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0105.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0106.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)![Alt text](<../static/w01s1 image scavenger hunt/IMG_0111.jpeg>)
 
-![description](w)
-
-![description](/subfolder_name/file_name.png) syntax 
