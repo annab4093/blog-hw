@@ -37,9 +37,10 @@ curtain of roots, delivered by a winged visitor.
 
 ![ (w01s1/IMG_0105.jpeg)
 
-wide net strung above, bulging under the weight of its flying paper cargo, we found this in the library.]
+wide net strung above, bulging under the weight of its flying paper cargo, we found this in the library.
 
 ![](w01s1/IMG_0106.jpeg)
+
 A book containing Digital Media wisdom, found amongst many. We found this in the library.
 
 ![](w01s1/IMG_0111.jpeg)
