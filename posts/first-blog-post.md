@@ -85,7 +85,6 @@ a key moment will be the clock scene to the writing of 'to do' zooming in
 
 3.how you are planning to use sound design and soundtrack to construct this moment. Focus particularly on the relationship between the audio and visual elements.
 
-
 I would use clock ticking sound and fast pacing music to create a sense of urgency and this will work together with the visual of the words TO Do being zoomed in to create a sense of pressure.
 The pacing of music along with visual of quick scenes flashing up also creates this sense of urgency.
 
@@ -98,12 +97,13 @@ Overall the emotional tone will transition from urgency , anxiety to more calmer
 at the start will bring out an anxious mood and the lack of these sound effects later on will help bring audience away from the initial sense of anxiety. Meanwhile the quick pacing music transitions to slower pacing one to offer sense of serenity.
 
   - What does the audience need to understand about the relationship between shots in this moment? 
+
 The clock showing a three o'clock and night lamp indicates that this is late at night and the eye opening scene indicates that this is me getting a outburst of anxiety at night.
 
+  - What sort of rhythm, tempo, or pace:
+Scenes with short duration flashing up will match the fast tempo of the quick paced music and clock ticking sound to create a fast pacing rythem in this moment.
 
-What connection are you trying to forge?
-  - What sort of rhythm, tempo, or pace are you attempting to establish during this moment? How will your editing produce this?
-Scenes flashing up will match the tempo of the quick paced music and clock ticking sound to create a fast pacing rythem in this moment.
+
 
 5.storyboard that accounts for the sonic elements of your project.
 
