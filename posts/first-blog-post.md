@@ -21,22 +21,29 @@ disable_html_sanitization: true
 
 A basement-dwelling Black Box, bigger than you might think. it looks like black boxes are behind us.
 
-![A golden globe atop a tower of eights.pretty obvious](w01s1/IMG_0100.jpeg)
+![](w01s1/IMG_0100.jpeg)
+A golden globe atop a tower of eights.pretty obvious,found next to the law department.
+
+![](w01s1/IMG_0101.jpeg)
+The disembodied hands of a great ape, we thought it looks like a huge hand so.
 
 
-![The disembodied hands of a great ape, we thought it looks like a huge hand so](w01s1/IMG_0101.jpeg)
+![ ](w01s1/IMG_0102.jpeg)
 
-
-![ curtain of roots, delivered by a winged visitor.](w01s1/IMG_0102.jpeg)
+curtain of roots, delivered by a winged visitor.
 
 
 ![description](w01s1/IMG_0104.jpeg)
 
-![ wide net strung above, bulging under the weight of its flying paper cargo, we found this in the library.](w01s1/IMG_0105.jpeg)
+![ (w01s1/IMG_0105.jpeg)
 
-![A book containing Digital Media wisdom, found amongst many.](w01s1/IMG_0106.jpeg)
+wide net strung above, bulging under the weight of its flying paper cargo, we found this in the library.]
 
-![An explosive cup of coffee. we found a coffee shop with matching name](w01s1/IMG_0111.jpeg)
+![](w01s1/IMG_0106.jpeg)
+A book containing Digital Media wisdom, found amongst many. We found this in the library.
+
+![](w01s1/IMG_0111.jpeg)
+An explosive cup of coffee. we found a coffee shop with matching brand name.
 
 
 homework
