@@ -125,7 +125,15 @@ Then I find the music and sound effects to work on the pacing and duration of bo
 3. Prepare a brief written introduction to your work. It should explain your general concept and intentions with the work in a clear, concise, and professional manner. 
 
 
-Overview of
+Overview of use of
+
+Technology:
+I Etablished continuity via filming  objects that have silimilar round shapes: clock, lid of watercolour paint, eye, bowl of water...
+square/rectangular shaped objects: painting, camera .
+footage with the same direction of left and right movement.
+I chose transitions based on the brightness of the next scene that follows the previous one. For example and if next scene is darker  I'd use fade to black.
+when I transition between music, I lower the volume of both music in the connecting scenes so they transition more naturally, and also make the volume gradually lower towards the end of the video.
+
 
 concept:
 the main theme I want to present is who am I. So I decided to present my various interests in life, aspiration to become a great artist, and my feelings when coming into the course.
@@ -136,12 +144,6 @@ Towards the middle of the sequence I would also like to slow the pacing down a l
 
 
 
-Technology:
-I Etablished continuity via filming  objects that have silimilar round shapes: clock, lid of watercolour paint, eye, bowl of water...
-square/rectangular shaped objects: painting, camera .
-footage with the same direction of left and right movement.
-I chose transitions based on the brightness of the next scene that follows the previous one. For example and if next scene is darker  I'd use fade to black .
-when I transition between music, I lower the volume of both music in the connecting scenes , and also make the volume gradually lower towards the end of the video.
 
 
 4. Place this introduction into the description of your draft on YouTube or Vimeo. Double-check that the link is ready for sharing in class during the next session.
