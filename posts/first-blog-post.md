@@ -110,7 +110,7 @@ transition to scenes with longer duration and slow paced music.
 5.storyboard that accounts for the sonic elements of your project.
 
 ![description](/storyboard/sb3.png)
-![description](/storyboard/sb2.png)
+
 
 
 
