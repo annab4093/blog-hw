@@ -103,7 +103,7 @@ Scenes flashing up will match the tempo of the quick paced music and clock ticki
 
 ![description](/storyboard/sb1.png)
 
-![description](storyboard/sb2.png）
+![description](/storyboard/sb2.png）
 
 
 
