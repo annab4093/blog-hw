@@ -100,6 +100,7 @@ Scenes flashing up will match the tempo of the quick paced music and clock ticki
 ![description](/storyboard/sb2.png)
 
 
+
 Homework Tasks - Week 3, Session 1
 1. Based on your storyboard, produce a draft of your video portrait for Assignment 1. It doesn't have to be the finished version, but it should be pretty close.
 
