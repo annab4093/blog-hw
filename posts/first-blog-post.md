@@ -46,8 +46,8 @@ A book containing Digital Media wisdom, found amongst many. We found this in the
 ![](w01s1/IMG_0111.jpeg)
 An explosive cup of coffee. we found a coffee shop with matching brand name.
 
-
-
+W1S2
+https://youtu.be/gawYnwDwoSg
 
 
 homework
