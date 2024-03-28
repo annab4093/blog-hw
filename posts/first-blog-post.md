@@ -127,12 +127,7 @@ Then I find the music and sound effects to work on the pacing and duration of bo
 
 Overview of use of
 
-Technology:
-I Etablished continuity via filming  objects that have silimilar round shapes: clock, lid of watercolour paint, eye, bowl of water...
-square/rectangular shaped objects: painting, camera .
-footage with the same direction of left and right movement.
-I chose transitions based on the brightness of the next scene that follows the previous one. For example and if next scene is darker  I'd use fade to black.
-when I transition between music, I lower the volume of both music in the connecting scenes so they transition more naturally, and also make the volume gradually lower towards the end of the video.
+
 
 
 concept:
@@ -143,7 +138,12 @@ Thus to create this sense of time running out and a feeling of anxiety, I would 
 Towards the middle of the sequence I would also like to slow the pacing down a little to achieve a calmer tone, as I am also aspired to become a calmer and less anxious person. This will probablly be done with the change of music to one that is calmer,slower and has a relaxing tone to offer a sense of serenity. I will also incorporate scenes of nature such as trees and birds that offer a sense of peace and relaxation.
 
 
-
+Technology:
+I Etablished continuity via filming  objects that have silimilar round shapes: clock, lid of watercolour paint, eye, bowl of water...
+square/rectangular shaped objects: painting, camera .
+footage with the same direction of left and right movement.
+I chose transitions based on the brightness of the next scene that follows the previous one. For example and if next scene is darker  I'd use fade to black.
+when I transition between music, I lower the volume of both music in the connecting scenes so they transition more naturally, and also make the volume gradually lower towards the end of the video.
 
 
 4. Place this introduction into the description of your draft on YouTube or Vimeo. Double-check that the link is ready for sharing in class during the next session.
