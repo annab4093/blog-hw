@@ -101,9 +101,8 @@ at the start will bring out an anxious mood and the lack of these sound effects 
 The clock showing a three o'clock and night lamp indicates that this is late at night and the eye opening scene indicates that this is me getting a outburst of anxiety at night.
 
   - What sort of rhythm, tempo, or pace:
-Scenes with short duration flashing up will match the fast tempo of the quick paced music and clock ticking sound to create a fast pacing rythem in this moment.
-
-
+Start with scenes with short duration flashing up will match the fast tempo of the quick paced music and clock ticking sound to create a fast pacing rythem in this moment.
+transition to scenes with longer duration and slow paced music.
 
 5.storyboard that accounts for the sonic elements of your project.
 
