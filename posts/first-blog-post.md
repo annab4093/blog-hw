@@ -113,17 +113,13 @@ Homework Tasks - Week 3, Session 1
 https://youtu.be/o6ulsLg-R3c
 
 
-2. Upload this draft to your YouTube or Vimeo account, post it to your blog, and write a blog post that 
-discusses your 
-
-process in producing this draft.
+2.process in producing this draft.
 
 First I uploaded all the footages and named them, then I sort out the sequence timeline with these footages, connecting them based on their catagory ( round objects)(scenes with panning movement left or right ) (nature scenes).
 Then I find the music and sound effects to work on the pacing and duration of both visual and audio.
 
 3. Prepare a brief written introduction to your work. It should explain your general concept and intentions with the work in a clear, concise, and professional manner. 
 
-overvoew -- concepts& technology used to convey idea
 
 Overview of
 
