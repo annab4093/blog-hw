@@ -110,6 +110,9 @@ Scenes flashing up will match the tempo of the quick paced music and clock ticki
 Homework Tasks - Week 3, Session 1
 1. Based on your storyboard, produce a draft of your video portrait for Assignment 1. It doesn't have to be the finished version, but it should be pretty close.
 
+https://youtu.be/o6ulsLg-R3c
+
+
 2. Upload this draft to your YouTube or Vimeo account, post it to your blog, and write a blog post that 
 discusses your 
 
