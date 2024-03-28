@@ -48,7 +48,7 @@ omework Tasks - Week 2, Session 1
 2. You may use screenshots of any footage you've shot so far, or your own illustrations to indicate the composition and movement of shots and visual elements.
 
 3. Upload your storyboard to your blog, along with a discussion of how you will establish and maintain continuity (and/or discontinuity)!!!! in your work.
-
+![description](/storyboard/sb1.png)
 
 I intended to establish continuity via filming  objects that have silimilar round shapes: clock, lid of watercolour paint, eye, bowl of water...
 square/rectangular shaped objects: painting, camera .
@@ -100,8 +100,6 @@ What connection are you trying to forge?
 Scenes flashing up will match the tempo of the quick paced music and clock ticking sound to create a fast pacing rythem in this moment.
 
 5.storyboard that accounts for the sonic elements of your project.
-
-![description](/storyboard/sb1.png)
 
 ![description](/storyboard/sb2.png）
 
