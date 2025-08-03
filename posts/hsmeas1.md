@@ -25,7 +25,7 @@ Tactics for Generating the Sublime (literature summary)
 
 Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
-![The Grand Canyon](hsme/1gc.jpeg)
+![The Grand Canyon](hsme/1gc.jpg)
 
 observing it from the foot
 from the summit
@@ -46,7 +46,7 @@ Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stain
 ![The Large Hadron Collider tunnel(Technological Sublime)](hsme/collider.jpeg)
 The sheer scale and incomprehensible power of this particle accelerator evoke awe at humanity’s reach into the unknown. Its subterranean vastness and scientific ambition mirror the sublime’s blend of wonder and terror .
 
-![The Grand Canyon](hsme/1gc.jpeg)
+![ Infinity Mirrors by Yayoi Kusama (Installation Art)](hsme/infinity.jpeg)
 ![The Grand Canyon](hsme/1gc.jpeg)
 ![The Grand Canyon](hsme/1gc.jpeg)
 ![The Grand Canyon](hsme/1gc.jpeg)
