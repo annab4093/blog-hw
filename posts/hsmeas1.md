@@ -29,6 +29,7 @@ Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
 observing it from the foot
 from the summit
+The sheer scale and geological time embedded in the Grand Canyon’s stratified cliffs induce a visceral sense of the sublime. The play of light at sunrise—casting deep shadows and glowing reds—enhances the feeling of standing before an ancient, indifferent force.
 
 ![Olafur Eliasson’s The Weather Project (Art Installation)](hsme/heydar.jpg)
 Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The work manipulates perception, making the man-made feel cosmic—a sublime fusion of art and environment.
