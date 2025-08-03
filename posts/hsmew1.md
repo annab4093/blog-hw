@@ -1,5 +1,5 @@
 ---
-title: assignment1
+title: HSME assignment1
 published_at: 2025
 snippet: week1
 ---
