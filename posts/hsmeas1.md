@@ -59,7 +59,11 @@ The sheer scale and incomprehensible power of this particle accelerator evoke aw
 
 ![ Infinity Mirrors by Yayoi Kusama (Installation Art)](hsme/infinity.jpg)
 
-![The Grand Canyon](hsme/1gc.jpeg)
+## The Northern Lights (Natural Phenomenon)
+
+![The Northern Lights (Natural Phenomenon)](hsme/aurora.webp)
+The aurora borealis, with its undulating colors and celestial origins, embodies the sublime in nature. Its unpredictability and otherworldly glow evokes within viewers a sense of humans'insignificance in the face of the cosmos.
+
 ![The Grand Canyon](hsme/1gc.jpeg)
 ![The Grand Canyon](hsme/1gc.jpeg)
 ![The Grand Canyon](hsme/1gc.jpeg)
