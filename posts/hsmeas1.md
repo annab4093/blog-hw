@@ -16,6 +16,7 @@ Sublime could involves a tension between fear and fascination.
 
 Tactics for Generating the Sublime (literature summary)
 • Scale manipulation – extreme size differentials (micro/macro).
+
 • Temporal dilation – exposure to deep time, slow change, decay.
 • Edge conditions – liminal spaces, precarious vantage points.
 • Sensorial overload – immersive sound, overwhelming luminosity.
