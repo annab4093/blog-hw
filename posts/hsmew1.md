@@ -1,17 +1,15 @@
 ---
 title: assignment1
-published_at: 2022-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+published_at: 2025
+snippet: week1
 ---
-
-^~^
-
-Hello, world!
 
 # This is h1
 
+HSME
+
 ## This is h2
 
-_underline_
+sublime
 
 **bold**
