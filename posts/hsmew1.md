@@ -1,6 +1,6 @@
 ---
 title: HSME assignment1
-published_at: 2025
+published_at: 2025-07
 snippet: week1
 ---
 
