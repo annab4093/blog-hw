@@ -30,6 +30,28 @@ Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 observing it from the foot
 from the summit
 
+![Olafur Eliasson’s The Weather Project (Art Installation)](hsme/heydar.jpeg)
+Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The work manipulates perception, making the man-made feel cosmic—a sublime fusion of art and environment.
+
+![Zaha Hadid’s Heydar Aliyev Center (Architecture)](hsme/weather.webp)
+Hadid’s fluid, gravity-defying curves create an uncanny sense of motion frozen in time. The building’s seamless white surfaces and lack of right angles evoke an almost alien grandeur, making the viewer feel as if they’ve stepped into a futuristic dreamscape
+
+![James Turrell’s Roden Crater (Land Art)](hsme/RodenCrater.jpeg)
+Turrell’s transformation of a volcanic crater into a celestial observatory frames the sky as a living canvas.
+The controlled apertures and shifting light create moments where the heavens seem to descend, evoking sacred awe. Chambers frame celestial events and colour fields so the sky feels tactile. The visitor loses horizon cues and vertiginously merges with the cosmos.
+
+![The Sagrada Família (Architecture)](hsme/Sagrada.jpeg)
+Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stained glass, dissolves the boundary between earth and sky. The interior’s dappled light and towering columns mimic a forest, evoking both divine wonder and natural sublimity
+
+![The Large Hadron Collider tunnel(Technological Sublime)](hsme/collider.jpeg)
+The sheer scale and incomprehensible power of this particle accelerator evoke awe at humanity’s reach into the unknown. Its subterranean vastness and scientific ambition mirror the sublime’s blend of wonder and terror .
+
+![The Grand Canyon](hsme/1gc.jpeg)
+![The Grand Canyon](hsme/1gc.jpeg)
+![The Grand Canyon](hsme/1gc.jpeg)
+![The Grand Canyon](hsme/1gc.jpeg)
+![The Grand Canyon](hsme/1gc.jpeg)
+
 **bold**
 
 reference
