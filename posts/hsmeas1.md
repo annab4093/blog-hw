@@ -25,7 +25,7 @@ Tactics for Generating the Sublime (literature summary)
 
 Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
-![The Grand Canyon](hsme/1gc.jpg)
+![**The Grand Canyon**](hsme/1gc.jpg)
 
 observing it from the foot
 from the summit
