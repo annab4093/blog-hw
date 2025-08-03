@@ -26,6 +26,7 @@ Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
 ![The Grand Canyon](hsme/1gc.jpg)
 ![](hsme/1gc.jpeg)
+![](hsme/1gc.jpg)
 
 observing it from the foot
 from the summit
