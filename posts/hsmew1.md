@@ -33,3 +33,18 @@ I chose the sublime because it is the one affect that digital media can amplify 
 
 **reference**
 Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine neurotransmitters. Medical Hypotheses, 78(2), pp.341–348. doi:https://doi.org/10.1016/j.mehy.2011.11.016.
+
+Academic areas to investigate..
+• bioacoustics
+• music therapy
+• medical literature
+• evolutionary biology
+• consciousness studies
+• cultural studies
+• the science of awe
+• For each project you must justify your design
+choices for your HMsEx (or experiences)
+• You can choose more than one state, but you
+must justify each work.
+• Must be reflected in your blog, and project
+presentations
