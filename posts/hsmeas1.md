@@ -102,4 +102,4 @@ A three-dimensional cube maps the three major monoamine systems (serotonin, dopa
 | **Surprise / Startle**    | 1    | 1   | 0   | Orienting reflex; confidence + arousal, no reward    |
 | **Interest / Excitement** | 1    | 1   | 1   | Peak engagement; all systems “on”                    |
 
-Therefore,via designing audiovisual stimulis in the environment, these neurotransmitters can be activated to create the desired emotional outcome. The next thing to do is to define and elaborate on which basic emotional states constitutes the state of sublime.
+Therefore,via designing audiovisual stimulis in the environment, these neurotransmitters can be activated to create the desired emotional outcome. The next thing to do is to define and elaborate on which of the basic emotional states constitutes the state of sublime.
