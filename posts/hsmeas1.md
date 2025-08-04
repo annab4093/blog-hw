@@ -72,7 +72,14 @@ Rooms of responsive LED waterfalls and mirrored corridors dissolve bodily bounda
 ## Agnes Denes, Wheatfield – A Confrontation (NYC, 1982)
 
 ![wheatfield](hsme/wheatfield.jpg)
-![The Grand Canyon](hsme/1gc.jpeg)
+
+## Marshmallow Laser Feast, Treehugger (VR, 2020)
+
+Haptic bark and volumetric scans of a 3,000-year-old sequoia let users shrink to insect size and climb its vascular system. The tree’s interior becomes a cathedral, collapsing millennia into a 7-minute loop. The complexity, magnificent beauty reminds human of our inferiority in the face of nature and unknown, thus making the experience sublime.
+
+![Marshmallow Laser Feast, Treehugger (VR, 2020)](hsme/marshmallow.jpg)
+
+I chose the sublime because it is the one affect that digital media can amplify beyond physical possibility—through visual data and sound. As a designer, I am drawn to experiences that momentarily delete the user’s ego, resetting their relationship to environment and thought provoking. My future work may explore by immersing viewers in a similar experience, evoking sublime and thus compassionate that motivates action rather than mere awe.
 
 **bold**
 
