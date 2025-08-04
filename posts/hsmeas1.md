@@ -79,10 +79,7 @@ Haptic bark and volumetric scans of a 3,000-year-old sequoia let users shrink to
 **Reflection**
 I chose the sublime because it is the one affect that digital media can amplify beyond physical possibility—through visual data and sound. As a designer, I am drawn to experiences that momentarily delete the user’s ego, resetting their relationship to environment and thought provoking. My future work may explore by immersing viewers in a similar experience, evoking sublime and thus compassionate that motivates action rather than mere awe.
 
-**reference**
-Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine neurotransmitters. Medical Hypotheses, 78(2), pp.341–348. doi:https://doi.org/10.1016/j.mehy.2011.11.016.
-
-Week one journal
+## Week one journal
 
 I had a look at the physiological signs that constitutes different emotional states. Thus I can define my desired emotional outcome- sublime and use audiovisual information to elicit such emotion within audience.
 A three-dimensional cube maps the three major monoamine systems (serotonin, dopamine, noradrenaline) onto Tomkins’ eight basic emotions.
@@ -104,3 +101,6 @@ A three-dimensional cube maps the three major monoamine systems (serotonin, dopa
 | **Interest / Excitement** | 1    | 1   | 1   | Peak engagement; all systems “on”                    |
 
 Therefore,via designing audiovisual stimulis in the environment, these neurotransmitters can be activated to create the desired emotional outcome. The next thing to do is to define and elaborate on which of the basic emotional states constitutes the state of sublime.
+
+**reference**
+Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine neurotransmitters. Medical Hypotheses, 78(2), pp.341–348. doi:https://doi.org/10.1016/j.mehy.2011.11.016.
