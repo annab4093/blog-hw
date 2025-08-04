@@ -24,13 +24,13 @@ Tactics for Generating the Sublime (literature summary)
 
 ![**The Grand Canyon**](hsme/1gc.jpg)
 
-Both observing it from the foot and from the summit allows human to feel small in the face of nature's artwork. The sheer scale and geological time embedded texture in the Grand Canyon’s stratified cliffs induce a visceral sense of the sublime. The play of light at sunrise—casting deep shadows and glowing reds—enhances the feeling of standing before an ancient, indifferent force.
+Both observing it from the foot and from the summit allows human to feel small in the face of nature's artwork. The sheer scale and geological time embedded texture in the Grand Canyon’s stratified cliffs induce a visceral sense of the sublime.The recurring rings echoes the weight of time and solemnity. The play of light at sunrise—casting deep shadows and glowing reds—enhances the feeling of heaviness as if standing before an ancient, indifferent force.
 
 ## Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
 ![Olafur Eliasson’s The Weather Project (Art Installation)](hsme/heydar.jpg)
 
-Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The gigantic artificially recreated sun appear as if time becomes static, making the viewer feel a sense of abnormality, epic,and grandeous that transcends mundane life. The height of the space aids the audience' perception of such feelings merging art and environment. The work used scale to manipulates perception, making the man-made feel cosmic and overwhelming sublime.
+Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The gigantic artificially recreated sun appear as if time becomes static, making the viewer feel a sense of abnormality, epic,and granderous that transcends mundane life. The height of the space aids the audience' perception of such feelings merging art and environment. The work used scale to manipulates perception, making the man-made feel cosmic and overwhelming sublime.
 
 ## Zaha Hadid’s Heydar Aliyev Center (Architecture)
 
