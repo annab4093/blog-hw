@@ -24,6 +24,8 @@ Tactics for Generating the Sublime (literature summary)
 
 • Technological augmentation – VR, 8K video, spatial audio to extend perception past the body’s limits.
 
+# Analysis
+
 ## Grand Canyon
 
 ![**The Grand Canyon**](hsme/1gc.jpg)
