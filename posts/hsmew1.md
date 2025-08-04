@@ -35,6 +35,15 @@ I chose the sublime because it is the one affect that digital media can amplify 
 Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine neurotransmitters. Medical Hypotheses, 78(2), pp.341–348. doi:https://doi.org/10.1016/j.mehy.2011.11.016.
 
 Academic areas to investigate..
+art and design,
+• film/sound/music studies,
+• multi-sensory design,
+• affective design
+• experience design
+• sensory system research
+• architecture
+• aromaachology
+• communication design
 • bioacoustics
 • music therapy
 • medical literature
