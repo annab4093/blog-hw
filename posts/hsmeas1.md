@@ -34,7 +34,7 @@ Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on
 
 ![Zaha Hadid’s Heydar Aliyev Center (Architecture)](hsme/heydar.jpg)
 
-Hadid’s fluid, gravity-defying curves create an uncanny sense of motion frozen in time. The building’s seamless white surfaces and lack of right angles evoke an almost alien grandeur, making the viewer feel as if they’ve stepped into a futuristic dreamscape. The feeling of unfamiliarity derived from its shape and scale creates awe, yet the predominant use of white iterates silence and purity, it thus has a meditative and sublime effect. Again, height and scale are used to heighten the architecture's
+Hadid’s fluid, gravity-defying curves create an uncanny sense of motion frozen in time. The building’s seamless white surfaces and lack of right angles evoke an almost alien grandeur, making the viewer feel as if they’ve stepped into a futuristic dreamscape.The semigloss texture, large scale use of white juxtaposed against dark grey, and erasure of other vibrant colour is unseen in nature and thus alienating and awe-inspiring. The void openspace in front of the building and the architect's predominant use of white iterates silence and the sort of purity that evokes reverence, it thus has a meditative and sublime effect. Again, height and scale are used to heighten the architecture's vastness.
 
 ## James Turrell’s Roden Crater (Land Art)
 
