@@ -84,6 +84,7 @@ Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine ne
 
 Week one journal
 
+I had a look at the physiological signs that constitutes different emotional states. Thus I can define my desired emotional outcome- sublime and use audiovisual information to elicit such emotion within audience.
 A three-dimensional cube maps the three major monoamine systems (serotonin, dopamine, noradrenaline) onto Tomkins’ eight basic emotions.
 | Axis | Neurotransmitter | Brain Origin | Psychological Theme |
 | ---------- | ---------------------- | ---------------------- | ---------------------------------------- |
