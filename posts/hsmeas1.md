@@ -69,7 +69,9 @@ The aurora borealis, with its undulating colors and celestial origins, embodies 
 ![borderless](hsme/borderless.jpeg)
 Rooms of responsive LED waterfalls and mirrored corridors dissolve bodily boundaries into cascades of colour. The self becomes pixel dust, sublime in its dispersal.
 
-![The Grand Canyon](hsme/1gc.jpeg)
+## Agnes Denes, Wheatfield – A Confrontation (NYC, 1982)
+
+![wheatfield](hsme/wheatfield.jpg)
 ![The Grand Canyon](hsme/1gc.jpeg)
 
 **bold**
