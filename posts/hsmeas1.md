@@ -14,7 +14,6 @@ Sublime could involves a tension between fear and fascination.
 
 Tactics for Generating the Sublime (literature summary)
 • Scale manipulation – extreme size differentials (micro/macro).
-
 • Temporal dilation – exposure to deep time, slow change, decay.
 • Edge conditions – liminal spaces, precarious vantage points.
 • Sensorial overload – immersive sound, overwhelming luminosity.
@@ -30,11 +29,13 @@ Both observing it from the foot and from the summit allows human to feel small i
 ## Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
 ![Olafur Eliasson’s The Weather Project (Art Installation)](hsme/heydar.jpg)
-Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The work manipulates perception, making the man-made feel cosmic—a sublime fusion of art and environment.
+
+Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The gigantic artificially recreated sun appear as if time becomes static, making the viewer feel a sense of abnormality, epic,and grandeous that transcends mundane life. The height of the space aids the audience' perception of such feelings merging art and environment. The work used scale to manipulates perception, making the man-made feel cosmic and overwhelming sublime.
 
 ## Zaha Hadid’s Heydar Aliyev Center (Architecture)
 
 ![Zaha Hadid’s Heydar Aliyev Center (Architecture)](hsme/weather.webp)
+
 Hadid’s fluid, gravity-defying curves create an uncanny sense of motion frozen in time. The building’s seamless white surfaces and lack of right angles evoke an almost alien grandeur, making the viewer feel as if they’ve stepped into a futuristic dreamscape
 
 ## James Turrell’s Roden Crater (Land Art)
