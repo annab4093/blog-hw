@@ -28,7 +28,7 @@ Both gazing up from the foot and from the summit makes human to feel humble in t
 
 ![Olafur Eliasson’s The Weather Project (Art Installation)](hsme/weather.webp)
 
-Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The gigantic artificially recreated sun appear as if time becomes static, making the viewer feel a sense of abnormality, epic,and granderous that transcends mundane life. The height of the space aids the audience' perception of such feelings merging art and environment. The work used scale to manipulates perception, making the man-made feel cosmic and overwhelming sublime.
+Eliasson’s artificial sun at the Tate Modern, shrouded in mist and mirrored on the ceiling, immerses viewers in an illusory infinity. The gigantic artificially recreated sun appear as if time becomes static, making the viewer feel a sense of abnormality, epic,and granderous that transcends mundane life. The extended height of the space aids the audience' perception of such feelings merging art and environment.The mirror reflecting the audience underneathe resounds humanitys' inferiority in the face of the universe. The work used scale to manipulates perception, making the man-made feel cosmic and overwhelming sublime.
 
 ## Zaha Hadid’s Heydar Aliyev Center (Architecture)
 
