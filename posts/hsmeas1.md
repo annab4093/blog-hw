@@ -11,11 +11,17 @@ Sublime is a emotional state which lifts the mind from the ordinary to the trans
 Sublime could involves a tension between fear and fascination.
 
 Tactics for Generating the Sublime (literature summary)
+
 • Scale manipulation – extreme size differentials (micro/macro).
+
 • Temporal dilation – exposure to deep time, slow change, decay.
+
 • Edge conditions – liminal spaces, precarious vantage points.
+
 • Sensorial overload – immersive sound, overwhelming luminosity.
+
 • Cognitive dissonance – beauty married to danger or absurdity.
+
 • Technological augmentation – VR, 8K video, spatial audio to extend perception past the body’s limits.
 
 ## Grand Canyon
