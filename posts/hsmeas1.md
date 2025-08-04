@@ -24,7 +24,7 @@ Tactics for Generating the Sublime (literature summary)
 
 ![**The Grand Canyon**](hsme/1gc.jpg)
 
-Both observing it from the foot and from the summit allows human to feel small in the face of nature's artwork. The sheer scale and geological time embedded texture in the Grand Canyon’s stratified cliffs induce a visceral sense of the sublime.The recurring rings echoes the weight of time and solemnity. The play of light at sunrise—casting deep shadows and glowing reds—enhances the feeling of heaviness as if standing before an ancient, indifferent force.
+Both gazing up from the foot and from the summit makes human to feel humble in the face of nature's masterpiece. The sheer scale and geological time embedded texture in the Grand Canyon’s stratified cliffs induce a visceral sense of the sublime.The recurring rings echoes the weight of time and solemnity. The play of light at sunrise—casting deep shadows and glowing reds—enhances the feeling of heaviness as if standing before an ancient, indifferent force.
 
 ## Olafur Eliasson, The Weather Project (Tate Modern, 2003)
 
