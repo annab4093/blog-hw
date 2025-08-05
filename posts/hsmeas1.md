@@ -69,7 +69,7 @@ The sheer scale and incomprehensible power of this particle accelerator evoke aw
 
 ![The Northern Lights (Natural Phenomenon)](hsme/aurora.webp)
 The aurora borealis, with its undulating colors and celestial origins, embodies the sublime in nature. Its unpredictability and otherworldly glow evokes within viewers a sense of humans'insignificance in the face of the cosmos.
-The aurora's immense scale and cosmic origins dwarf human perception, triggering awe. Its unpredictable, dancing lights create tension between beauty and terror through their untamed natural power. Unearthly colors and forms appear supernatural, breaking earthly visual logic. The silent Arctic darkness framing it amplifies the experience's isolating grandeur. Together, these elements generate the sublime's signature mix of wonder and existential humility.
+The aurora's immense scale and cosmic origins dwarf human perception, triggering awe. Its unpredictable, dancing lights create tension between beauty and terror through their untamed natural power. Unearthly colors and forms appear supernatural, breaking earthly visual logic. The silent Arctic darkness framing it amplifies the experience's isolating grandeur. Together, these elements generate the sublime with mix of wonder and existential humility.
 
 ## TeamLab Borderless (Tokyo, 2018)
 
