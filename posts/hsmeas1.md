@@ -58,7 +58,7 @@ Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stain
 ## Infinity Mirrors by Yayoi Kusama (Installation Art)
 
 ![ Infinity Mirrors by Yayoi Kusama (Installation Art)](hsme/infinity.jpg)
-Each mirrored chamber is a shoebox cosmos: LED orbs, floating lanterns multiply into countless vanishing points, dissolving walls, floor and ceiling into an endless void. The body is atomised; the viewer sees themself recede into countless reflections until identity becomes a speck inside a boundless lattice. Scale is weaponised: a room the size of a lift car suddenly feels galactic, collapsing human measure into astronomical vastness. The repetition is both hypnotic and faintly threatening—like being swallowed by a digital black hole that keeps spawning copies of you. By shrinking the threshold between self and cosmos to the width of a two-way mirror, Kusama engineers a vertiginous sublime that is intimate yet infinite, fragile yet terrifying.
+Each mirrored chamber can be perceived as recreating the cosmo,using LED orbs, floating lanterns multiply into countless vanishing points, dissolving walls, floor and ceiling into an endless void. The viewer sees themself recede into countless reflections as if their identity becomes a speck of dust inside a vast space. Scale is used so the room size seem boundless collapsing human measure into astronomical vastness. The repetition is both hypnotic and faintly threatening—like being swallowed by a digital black hole. Kusama engineers a vertiginous sublime that is intimate yet infinite, fragile yet terrifying.
 
 ## The Large Hadron Collider tunnel
 
