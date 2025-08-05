@@ -55,7 +55,7 @@ The controlled apertures and light from above create moments where the heavens s
 
 ![The Sagrada Família (Architecture)](hsme/Sagrada.jpg)
 
-Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stained glass, dissolves the boundary between earth and sky. The interior’s dappled light and towering columns mimic a forest.Alongside with its height,it evokes both divine wonder and natural sublimity.
+Gaudí’s unfinished cathedral, with its organic shaped spires that are inspired by natural patterns,and kaleidoscopic stained glass, dissolves the boundary between earth and sky. The interior’s dappled light and towering columns mimic a forest. Alongside with its height,it evokes both divine wonder and natural sublimity.
 
 ## Infinity Mirrors by Yayoi Kusama (Installation Art)
 
