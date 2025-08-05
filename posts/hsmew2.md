@@ -6,7 +6,7 @@ snippet: journal
 
 # Week two journal: Emotional models
 
-## Classical 2-D Valence–Arousal: Russell’s Circumplex (1980)
+## 1 Classical 2-D Valence–Arousal: Russell’s Circumplex (1980)
 
 – Axes: Valence (pleasant ↔ unpleasant) & Arousal (activated ↔ deactivated).
 – Limitations: static snapshots, no temporal depth.
@@ -26,23 +26,20 @@ This dimension ranges from **high activation states (like excitement or alertnes
 
 It reflects the physiological and psychological intensity of the affective experience
 
-## Latinjak’s 3-D Model (2012)
+## 2 Latinjak’s 3-D Model (2012)
 
 – Adds Time Orientation: **Past, Present, Future**
 – Reveals how anticipation (future) or nostalgia (past) modulates arousal/valence.
 
-## Cognitive Appraisal
+## 3 Cognitive Appraisal: Ortony-Clore-Collins (OCC) Model
 
-Ortony-Clore-Collins (OCC) Model
 – Three branches:
 Consequences of events → Well-being emotions (joy, distress).
 Actions of agents → Attribution emotions (pride, shame).
 Aspects of objects → Attraction emotions (like, dislike).
 – Emotion intensity tied to goal relevance & standards.
 
-Aesthetic Profound Experience
-
-## Affect Space Theory (Emery, North & Hargreaves 2016)
+## Aesthetic Experience: Affect Space Theory (Emery, North & Hargreaves 2016)
 
 This theory offers a multidimensional approach to analyzing how we experience art, music, and other aesthetic objects by distinguishing between different components of aesthetic response.
 
