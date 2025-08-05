@@ -14,6 +14,8 @@ Tactics for Generating the Sublime
 
 • Scale manipulation – extreme size differentials (micro/macro).
 
+vastness (immensity of scale) is a core trigger of the sublime, inducing awe through perceptual (Burke, 1821)
+
 • Temporal dilation – exposure to deep time, slow change, decay.
 
 • Edge conditions – liminal spaces, precarious vantage points.
@@ -120,4 +122,9 @@ A three-dimensional cube maps the three major monoamine systems (serotonin, dopa
 Therefore,via designing audiovisual stimulis in the environment, these neurotransmitters can be activated to create the desired emotional outcome. The next thing to do is to define and elaborate on which of the basic emotional states constitutes the state of sublime.
 
 **reference**
+
+Doran, R. (2017). The theory of the sublime from Longinus to Kant. Cambridge: Cambridge University Press.
+
+Burke, E. (1821). A Philosophical Enquiry Into the Origin of Our Ideas of the Sublime and Beautiful.
+
 Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine neurotransmitters. Medical Hypotheses, 78(2), pp.341–348. doi:https://doi.org/10.1016/j.mehy.2011.11.016.
