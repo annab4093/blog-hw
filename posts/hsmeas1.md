@@ -53,17 +53,17 @@ The controlled apertures and shifting light create moments where the heavens see
 ## The Sagrada Família (Architecture)
 
 ![The Sagrada Família (Architecture)](hsme/Sagrada.jpg)
-Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stained glass, dissolves the boundary between earth and sky. The interior’s dappled light and towering columns mimic a forest, evoking both divine wonder and natural sublimity.
-
-## The Large Hadron Collider tunnel
-
-![The Large Hadron Collider tunnel(Technological Sublime)](hsme/collider.jpg)
-The sheer scale and incomprehensible power of this particle accelerator evoke awe at humanity’s reach into the unknown. Its subterranean vastness and scientific ambition mirror the sublime’s blend of wonder and terror .
+Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stained glass, dissolves the boundary between earth and sky. The interior’s dappled light and towering columns mimic a forest.Alongside with its height,it evokes both divine wonder and natural sublimity.
 
 ## Infinity Mirrors by Yayoi Kusama (Installation Art)
 
 ![ Infinity Mirrors by Yayoi Kusama (Installation Art)](hsme/infinity.jpg)
 Each mirrored chamber is a shoebox cosmos: LED orbs, floating lanterns multiply into countless vanishing points, dissolving walls, floor and ceiling into an endless void. The body is atomised; the viewer sees themself recede into countless reflections until identity becomes a speck inside a boundless lattice. Scale is weaponised: a room the size of a lift car suddenly feels galactic, collapsing human measure into astronomical vastness. The repetition is both hypnotic and faintly threatening—like being swallowed by a digital black hole that keeps spawning copies of you. By shrinking the threshold between self and cosmos to the width of a two-way mirror, Kusama engineers a vertiginous sublime that is intimate yet infinite, fragile yet terrifying.
+
+## The Large Hadron Collider tunnel
+
+![The Large Hadron Collider tunnel(Technological Sublime)](hsme/collider.jpg)
+The sheer scale and incomprehensible power of this particle accelerator evoke awe at humanity’s reach into the unknown. Its vastness and its artificially designed representation of mankinds' transcendental scientific power that create the feeling of sublime with a blend of wonder and terror .
 
 ## The Northern Lights (Natural Phenomenon)
 
