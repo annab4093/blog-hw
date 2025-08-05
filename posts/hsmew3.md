@@ -8,3 +8,9 @@ snippet: journal
 
 emotion models
 meaning from abstraction
+
+psycho physiological- how it may be effectively realised
+
+understanding of field work in-mechanics in experience can be used
+
+influenced by xyz, draw out literature to look at ,
