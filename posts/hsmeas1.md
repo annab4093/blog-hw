@@ -47,27 +47,32 @@ Hadid’s fluid, gravity-defying curves create an uncanny sense of motion frozen
 ## James Turrell’s Roden Crater (Land Art)
 
 ![James Turrell’s Roden Crater (Land Art)](hsme/RodenCrater.jpg)
+
 Turrell’s transformation of a volcanic crater into a celestial observatory frames the sky as a living canvas.
 The controlled apertures and light from above create moments where the heavens seem to descend, evoking sacred awe. Chambers frame celestial events and colour fields so the sky feels tactile and within closer distant. The visitor loses horizon cues and are encouraged to perceive the space vertically, in this way, the height creates the sense of sublime.
 
 ## The Sagrada Família (Architecture)
 
 ![The Sagrada Família (Architecture)](hsme/Sagrada.jpg)
+
 Gaudí’s unfinished cathedral, with its organic spires and kaleidoscopic stained glass, dissolves the boundary between earth and sky. The interior’s dappled light and towering columns mimic a forest.Alongside with its height,it evokes both divine wonder and natural sublimity.
 
 ## Infinity Mirrors by Yayoi Kusama (Installation Art)
 
 ![ Infinity Mirrors by Yayoi Kusama (Installation Art)](hsme/infinity.jpg)
+
 Each mirrored chamber can be perceived as recreating the cosmo,using LED orbs, floating lanterns multiply into countless vanishing points, dissolving walls, floor and ceiling into an endless void. The viewer sees themself recede into countless reflections as if their identity becomes a speck of dust inside a vast space. Scale is used so the room size seem boundless collapsing human measure into astronomical vastness. The repetition is both hypnotic and faintly threatening—like being swallowed by a digital black hole. Kusama engineers a vertiginous sublime that is intimate yet infinite, fragile yet terrifying.
 
 ## The Large Hadron Collider tunnel
 
 ![The Large Hadron Collider tunnel(Technological Sublime)](hsme/collider.jpg)
+
 The sheer scale and incomprehensible power of this particle accelerator evoke awe at humanity’s reach into the unknown. Its vastness and its artificially designed representation of mankinds' transcendental scientific power that create the feeling of sublime with a blend of wonder and terror .
 
 ## The Northern Lights (Natural Phenomenon)
 
 ![The Northern Lights (Natural Phenomenon)](hsme/aurora.webp)
+
 The aurora borealis, with its undulating colors and celestial origins, embodies the sublime in nature. Its unpredictability and otherworldly glow evokes within viewers a sense of humans'insignificance in the face of the cosmos.
 The aurora's immense scale and cosmic origins dwarf human perception, triggering awe. Its unpredictable, dancing lights create tension between beauty and terror through their untamed natural power. Unearthly colors and forms appear supernatural, breaking earthly visual logic. The silent Arctic darkness framing it amplifies the experience's isolating grandeur. Together, these elements generate the sublime with mix of wonder and existential humility.
 
