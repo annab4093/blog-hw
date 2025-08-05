@@ -80,6 +80,8 @@ Rooms of responsive LED waterfalls and mirrored corridors dissolve bodily bounda
 
 ![wheatfield](hsme/wheatfield.jpg)
 
+Two acres of wheat planted on a landfill next to Wall Street. The surreal crop against the skyline revealed the city’s latent soil and ecological memory, producing a sublime frisson of temporal incongruity.
+
 ## Marshmallow Laser Feast, Treehugger (VR, 2020)
 
 ![Marshmallow Laser Feast, Treehugger (VR, 2020)](hsme/marshmallow.jpg)
