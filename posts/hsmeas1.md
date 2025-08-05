@@ -10,7 +10,7 @@ Sublime is a emotional state which lifts the mind from the ordinary to the trans
 
 Sublime could involves a tension between fear and fascination.
 
-Tactics for Generating the Sublime (literature summary)
+Tactics for Generating the Sublime l
 
 • Scale manipulation – extreme size differentials (micro/macro).
 

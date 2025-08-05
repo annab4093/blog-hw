@@ -31,6 +31,9 @@ Therefore,via designing audiovisual stimulis in the environment, these neurotran
 **Reflection**
 I chose the sublime because it is the one affect that digital media can amplify beyond physical possibility—through visual data and sound. As a designer, I am drawn to experiences that momentarily delete the user’s ego, resetting their relationship to environment and thought provoking. My future work may explore by immersing viewers in a similar experience, evoking sublime and thus compassionate that motivates action rather than mere awe.
 
+**Russell’s Circumplex model of affect**
+Lang, Larsen & Diener
+
 **reference**
 Lövheim, H. (2012). A new three-dimensional model for emotions and monoamine neurotransmitters. Medical Hypotheses, 78(2), pp.341–348. doi:https://doi.org/10.1016/j.mehy.2011.11.016.
 
@@ -57,3 +60,26 @@ choices for your HMsEx (or experiences)
 must justify each work.
 • Must be reflected in your blog, and project
 presentations
+
+Academic references, technical manuals, industry specific
+podcasts, relevant YouTube tutorials
+• visual works of art and designs, films, installations, books, pieces
+of music, games, performances, VR, light and sound, tactile or
+vibroacoustic experiences
+• Be descriptive, explain how your research is helping to enhance
+or influence your design or your ideas
+• Don’t quote references or provide examples of other’s work
+without analysis
+• Go beyond dictionary definitions and easy summaries (this is just
+a starting point)
+References
+
+Impressive works
+• Bold works
+• Heightened works (affective works)
+• Multi-sensory works
+
+- how do you engage (or supress)the senses?
+  Projects
+
+State of arousal
