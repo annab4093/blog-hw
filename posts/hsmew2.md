@@ -33,13 +33,17 @@ It reflects the physiological and psychological intensity of the affective exper
 
 ## 3 Cognitive Appraisal: Ortony-Clore-Collins (OCC) Model
 
-– Three branches:
-Consequences of events → Well-being emotions (joy, distress).
-Actions of agents → Attribution emotions (pride, shame).
-Aspects of objects → Attraction emotions (like, dislike).
-– Emotion intensity tied to goal relevance & standards.
+The OCC model provides a systematic taxonomy of emotions based on their cognitive antecedents, organizing 22 distinct emotion types into three primary categories:
 
-## Aesthetic Experience: Affect Space Theory (Emery, North & Hargreaves 2016)
+Event-based emotions (e.g., joy, distress) arising from consequences of events
+
+Agent-based emotions (e.g., pride, shame) related to actions of agents
+
+Object-based emotions (e.g., love, hate) directed at objects
+
+This structured approach offered researchers a clear computational pathway for modeling how specific appraisal patterns lead to particular emotional states, filling a critical gap between cognitive theories and implementable models
+
+## 4 Aesthetic Experience: Affect Space Theory (Emery, North & Hargreaves 2016)
 
 This theory offers a multidimensional approach to analyzing how we experience art, music, and other aesthetic objects by distinguishing between different components of aesthetic response.
 
