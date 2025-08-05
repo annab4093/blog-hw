@@ -16,13 +16,13 @@ Temporal Extension
 The Two Fundamental Dimensions
 **Valence**(Pleasure-Displeasure Continuum)
 
-This dimension ranges from highly positive, pleasant feelings (like joy or happiness) to highly negative, unpleasant feelings (like sadness or anger) 38.
+This dimension ranges from **highly positive, pleasant feelings (like joy or happiness) to highly negative, unpleasant feelings (like sadness or anger)** .
 
 It represents the subjective evaluation of whether an experience is good or bad, desirable or undesirable 14.
 
 **Arousal** (Activation-Deactivation Continuum)
 
-This dimension ranges from high activation states (like excitement or alertness) to low activation states (like calmness or sleepiness) 38.
+This dimension ranges from **high activation states (like excitement or alertness)** to **low activation states (like calmness or sleepiness)**
 
 It reflects the physiological and psychological intensity of the affective experience
 
