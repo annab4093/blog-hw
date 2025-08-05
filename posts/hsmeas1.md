@@ -48,7 +48,7 @@ Hadid’s fluid, gravity-defying curves create an uncanny sense of motion frozen
 
 ![James Turrell’s Roden Crater (Land Art)](hsme/RodenCrater.jpg)
 Turrell’s transformation of a volcanic crater into a celestial observatory frames the sky as a living canvas.
-The controlled apertures and shifting light create moments where the heavens seem to descend, evoking sacred awe. Chambers frame celestial events and colour fields so the sky feels tactile. The visitor loses horizon cues and vertiginously merges with the cosmos.
+The controlled apertures and light from above create moments where the heavens seem to descend, evoking sacred awe. Chambers frame celestial events and colour fields so the sky feels tactile and within closer distant. The visitor loses horizon cues and are encouraged to perceive the space vertically, in this way, the height creates the sense of sublime.
 
 ## The Sagrada Família (Architecture)
 
